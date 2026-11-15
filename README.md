@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/website-homerec.net-8a5a3b?style=for-the-badge)](https://homerec.net)
 [![Discord](https://img.shields.io/badge/discord-join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XJ5hAEg6rE)
-![Status](https://img.shields.io/badge/status-closed%20beta-e0a030?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-open%20beta-e0a030?style=for-the-badge)
 
 </div>
 
@@ -32,7 +32,7 @@ the Watch menu and the 2026 store.
 | 🎁 **Play and earn** | Tokens and daily gifts for playing, XP for time spent in game, and daily challenges. |
 | 🎉 **Friends, parties and minigames** | Voice chat, parties and the built-in minigames: Floor is Lava, Hide and Seek and Snowball Fight. |
 | 🌐 **Your account on the web** | Sign in on [homerec.net](https://homerec.net) with your game account to browse players' photos and profiles, and give hearts (the same cheers as in game). |
-| 🥽 **VR headset sign-in** | Sign in once on your headset and it remembers you. |
+| 🥽 **Play in VR** | HomeRec has a VR version of the game. Sign in once on your headset and it remembers you. |
 
 ## How to play
 
@@ -40,9 +40,10 @@ the Watch menu and the 2026 store.
    already play with.
 2. **Download the launcher** for Windows PC from [homerec.net](https://homerec.net). It sets up
    everything you need.
-3. **Join our [Discord](https://discord.gg/XJ5hAEg6rE)** for news, help and beta access.
+3. **Join our [Discord](https://discord.gg/XJ5hAEg6rE)** for news and help.
 
-> HomeRec is in **closed beta** and spots are limited. Ask in Discord to get in.
+> HomeRec is in **open beta**: everyone can join, but expect bugs and frequent changes. Please report
+> anything broken in our Discord.
 
 ## FAQ
 
